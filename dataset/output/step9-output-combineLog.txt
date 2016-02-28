@@ -1,0 +1,76 @@
+&"Trees rocks animals dust mites and air" "are considered" "examples of matter all"&   &"Trees rocks animals dust mites and air" "are considered" "examples of matter"&   &0.9999999999999996&
+&"Trees rocks animals dust mites and air" "are considered" "examples of matter"&   &"Trees rocks animals dust mites and air" "are considered" "examples of matter all"&   &0.9999999999999996&
+&"Physical and chemical properties" "are" "the two main types of properties used to classify matter"&   &"Physical and chemical properties" "are" "the two main types"&   &0.8047492176512524&
+&"Physical and chemical properties" "are" "the two main types"&   &"Physical and chemical properties" "are" "the two main types of properties used to classify matter"&   &0.8047492176512524&
+&"the molding" "does not change" "the substances in clay"&   &"the molding" "does not change" "the substances"&   &0.8930379261778141&
+&"the molding" "does not change" "the substances"&   &"the molding" "does not change" "the substances in clay"&   &0.8930379261778141&
+&"The difference between a physical and chemical change" "is" "that a chemical change will create a new substance while all the chemical properties in a physical change will not change"&   &"a chemical change" "will create" "a new substance while all the chemical properties in a physical change will not change"&   &0.9052502685665887&
+&"a chemical change" "will create" "a new substance while all the chemical properties in a physical change will not change"&   &"The difference between a physical and chemical change" "is" "that a chemical change will create a new substance while all the chemical properties in a physical change will not change"&   &0.9052502685665887&
+&"a chemical change" "will create" "a new substance while all the chemical properties in a physical change will not change"&   &"a chemical change" "will create" "a new substance"&   &0.8104603280880105&
+&"a chemical change" "will create" "a new substance"&   &"a chemical change" "will create" "a new substance while all the chemical properties in a physical change will not change"&   &0.8104603280880105&
+&"This rule" "indicates" "that energy can not be destroyed when it moves from one object or system to another"&   &"energy" "can not be destroyed" "when it moves from one object or system to another"&   &0.8505856096160792&
+&"energy" "can not be destroyed" "when it moves from one object or system to another"&   &"This rule" "indicates" "that energy can not be destroyed when it moves from one object or system to another"&   &0.8505856096160792&
+&"Mechanical energy" "is" "the energy of an object"&   &"Mechanical energy" "is" "the energy"&   &0.9092512866444162&
+&"Mechanical energy" "is" "the energy"&   &"Mechanical energy" "is" "the energy of an object"&   &0.9092512866444162&
+&"an object" "is moving" "when"&   &"an object" "is moving"&   &1&
+&"an object" "is moving"&   &"an object" "is moving" "when"&   &1&
+&"The chemical properties" "involve" "changing the matter into a new kind of matter"&   &"The chemical properties" "involve" "changing the matter"&   &0.8216208214425251&
+&"The chemical properties" "involve" "changing the matter with different properties"&   &"The chemical properties" "involve" "changing the matter"&   &0.8227647712343112&
+&"The chemical properties" "involve" "changing the matter"&   &"The chemical properties" "involve" "changing the matter into a new kind of matter"&   &0.8216208214425251&
+&"The chemical properties" "involve" "changing the matter"&   &"The chemical properties" "involve" "changing the matter with different properties"&   &0.8227647712343112&
+&"The primary difference between a physical and chemical change" "is" "the changing of the substance into a new matter in a chemical change"&   &"The primary difference between a physical and chemical change" "is" "the changing"&   &0.8523013723949102&
+&"The primary difference between a physical and chemical change" "is" "the changing"&   &"The primary difference between a physical and chemical change" "is" "the changing of the substance into a new matter in a chemical change"&   &0.8523013723949102&
+&"broken down there" "are" "two different kinds of mechanical energy"&   &"broken down there" "are" "two different kinds"&   &0.8199647587819676&
+&"broken down there" "are" "two different kinds"&   &"broken down there" "are" "two different kinds of mechanical energy"&   &0.8199647587819676&
+&"Kinetic energy" "is" "because of the object 's motion and potential energy"&   &"the object" "has" "motion and potential energy"&   &0.9066084144064458&
+&"the object" "has" "motion and potential energy"&   &"Kinetic energy" "is" "because of the object 's motion and potential energy"&   &0.9066084144064458&
+&"the chemical properties" "does not change" "if the physical properties such as the size and shape of an object changes"&   &"the chemical properties" "does not change"&   &1&
+&"the chemical properties" "does not change"&   &"the chemical properties" "does not change" "if the physical properties such as the size and shape of an object changes"&   &1&
+&"chemical properties" "have" "the capability to change into a different matter containing different properties However"&   &"chemical properties" "have" "the capability to change into a different matter containing different properties"&   &1.0000000000000002&
+&"chemical properties" "have" "the capability to change into a different matter containing different properties"&   &"chemical properties" "have" "the capability to change into a different matter containing different properties However"&   &1.0000000000000002&
+&"we" "learn" "the definition of matter and how matter relates to energy In What is Matter"&   &"we" "learn" "the definition of matter and how matter relates to energy"&   &1.0000000000000004&
+&"we" "learn" "the definition of matter and how matter relates to energy"&   &"we" "learn" "the definition of matter and how matter relates to energy In What is Matter"&   &1.0000000000000004&
+&"matter" "relates" "to energy how"&   &"matter" "relates" "to energy"&   &1.0&
+&"matter" "relates" "to energy"&   &"matter" "relates" "to energy how"&   &1.0&
+&"its shape size malleability and density" "are" "all properties For example"&   &"its shape size malleability and density" "are" "all properties"&   &0.9450962693829621&
+&"its shape size malleability and density" "are" "all properties"&   &"its shape size malleability and density" "are" "all properties For example"&   &0.9450962693829621&
+&"a chemical property" "requires" "the observer to change the essential atomic identity of the matter However"&   &"a chemical property" "requires" "the observer to change the essential atomic identity of the matter"&   &0.9999999999999988&
+&"a chemical property" "requires" "the observer to change the essential atomic identity of the matter"&   &"a chemical property" "requires" "the observer to change the essential atomic identity of the matter However"&   &0.9999999999999988&
+&"a chemical property of paper" "is" "flammability For example"&   &"a chemical property of paper" "is" "flammability"&   &0.9028533194198953&
+&"a chemical property of paper" "is" "flammability"&   &"a chemical property of paper" "is" "flammability For example"&   &0.9028533194198953&
+&"paper" "burns" "When"&   &"paper" "burns"&   &1&
+&"paper" "burns"&   &"paper" "burns" "When"&   &1&
+&"Examples of chemical properties" "are" "flammability and rusting as the object is no longer made of the same matter"&   &"Examples of chemical properties" "are" "flammability and rusting"&   &0.835795314406388&
+&"Examples of chemical properties" "are" "flammability and rusting"&   &"Examples of chemical properties" "are" "flammability and rusting as the object is no longer made of the same matter"&   &0.835795314406388&
+&"the object" "is made" "of the same matter no longer"&   &"the object" "is made" "of the same matter"&   &0.8360354084865669&
+&"the object" "is made" "of the same matter"&   &"the object" "is made" "of the same matter no longer"&   &0.8360354084865669&
+&"the object" "is" "the matter"&   &"the object" "is made up" "of remains the same the matter"&   &0.8005793292156763&
+&"the object" "is" "the matter"&   &"the object" "is made up" "the matter"&   &0.9999999999999997&
+&"the object" "is made up" "of remains the same the matter"&   &"the object" "is" "the matter"&   &0.8005793292156763&
+&"the object" "is made up" "of remains the same the matter"&   &"the object" "is made up" "the matter"&   &0.8005793292156763&
+&"the object" "is made up" "the matter"&   &"the object" "is" "the matter"&   &0.9999999999999997&
+&"the object" "is made up" "the matter"&   &"the object" "is made up" "of remains the same the matter"&   &0.8005793292156763&
+&"chemical change" "occurs" "when the chemical properties of the matter have changed and a new substance is produced Unlike physical change"&   &"chemical change" "occurs" "when the chemical properties of the matter have changed and a new substance is produced"&   &0.9594900679727952&
+&"chemical change" "occurs" "when the chemical properties of the matter have changed and a new substance is produced"&   &"chemical change" "occurs" "when the chemical properties of the matter have changed and a new substance is produced Unlike physical change"&   &0.9594900679727952&
+&"the chemical properties of the matter" "have changed" "when"&   &"the chemical properties of the matter" "have changed"&   &1&
+&"the chemical properties of the matter" "have changed"&   &"the chemical properties of the matter" "have changed" "when"&   &1&
+&"the author" "explains" "that energy is related to matter as it is defined as a property of matter In conclusion"&   &"the author" "explains" "that energy is related to matter as it is defined as a property of matter"&   &0.9511518003676559&
+&"the author" "explains" "that energy is related to matter as it is defined as a property of matter In conclusion"&   &"energy" "is related" "to matter as it is defined as a property of matter"&   &0.8635971746062812&
+&"the author" "explains" "that energy is related to matter as it is defined as a property of matter"&   &"the author" "explains" "that energy is related to matter as it is defined as a property of matter In conclusion"&   &0.9511518003676559&
+&"the author" "explains" "that energy is related to matter as it is defined as a property of matter"&   &"energy" "is related" "to matter as it is defined as a property of matter"&   &0.9099010135771624&
+&"energy" "is related" "to matter as it is defined as a property of matter"&   &"the author" "explains" "that energy is related to matter as it is defined as a property of matter In conclusion"&   &0.8635971746062812&
+&"energy" "is related" "to matter as it is defined as a property of matter"&   &"the author" "explains" "that energy is related to matter as it is defined as a property of matter"&   &0.9099010135771624&
+&"energy" "is" "essential very"&   &"energy" "is" "essential"&   &1.0&
+&"energy" "is" "essential"&   &"energy" "is" "essential very"&   &1.0&
+&"Energy" "can be transferred" "from one object or system only"&   &"Energy" "can be transferred" "from one object or system to another"&   &0.9999999999999994&
+&"Energy" "can be transferred" "from one object or system only"&   &"Energy" "can be transferred" "from one object or system"&   &0.9999999999999994&
+&"Energy" "can be transferred" "from one object or system to another"&   &"Energy" "can be transferred" "from one object or system only"&   &0.9999999999999994&
+&"Energy" "can be transferred" "from one object or system to another"&   &"Energy" "can be transferred" "from one object or system"&   &0.9999999999999994&
+&"Energy" "can be transferred" "from one object or system"&   &"Energy" "can be transferred" "from one object or system only"&   &0.9999999999999994&
+&"Energy" "can be transferred" "from one object or system"&   &"Energy" "can be transferred" "from one object or system to another"&   &0.9999999999999994&
+&"an object" "has of" "the energy because"&   &"an object" "has of" "the energy"&   &0.9999999999999997&
+&"an object" "has of" "the energy"&   &"an object" "has of" "the energy because"&   &0.9999999999999997&
+&"an object" "has" "because it is moving the energy"&   &"an object" "has" "the energy"&   &0.8202925196277012&
+&"an object" "has" "the energy"&   &"an object" "has" "because it is moving the energy"&   &0.8202925196277012&
+&"an object" "has of" "energy because"&   &"an object" "has of" "energy"&   &0.9999999999999997&
+&"an object" "has of" "energy"&   &"an object" "has of" "energy because"&   &0.9999999999999997&

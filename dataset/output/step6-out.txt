@@ -1,0 +1,620 @@
+#"Matter" "all the objects and substances"
+Matter is all the objects and substances
+FROM: ruthie-# Line 1 (id 1): Matter is all the objects and substances that take up space around us.
+
+#"all the objects and substances" "space around us"
+all the objects and substances take up space around us
+FROM: ruthie-# Line 1 (id 1): Matter is all the objects and substances that take up space around us.
+
+#"Matter" "can be detected" "because it contains volume and mass"
+Matter can be detected because it contains volume and mass
+FROM: ruthie-# Line 2 (id 2): Matter can be detected and measured because it contains volume and mass.
+
+#"Matter" "because it contains volume and mass"
+Matter can be measured because it contains volume and mass
+FROM: ruthie-# Line 2 (id 2): Matter can be detected and measured because it contains volume and mass.
+
+#"Trees rocks animals dust mites and air" "are considered" "examples of matter all"
+Trees rocks animals dust mites and air are considered examples of matter all
+FROM: ruthie-# Line 3 (id 3): Trees, rocks, animals, dust mites and air are all considered examples of matter.
+
+#"Trees rocks animals dust mites and air" "are considered" "examples of matter"
+Trees rocks animals dust mites and air are considered examples of matter
+FROM: ruthie-# Line 3 (id 3): Trees, rocks, animals, dust mites and air are all considered examples of matter.
+
+#"identify" "matter"
+us identify matter
+FROM: ruthie-# Line 4 (id 4): Properties are used to help us identify matter.
+
+#"Physical and chemical properties" "the two main types of properties used to classify matter"
+Physical and chemical properties are the two main types of properties used to classify matter
+FROM: ruthie-# Line 5 (id 5): Physical and chemical properties are the two main types of properties used to classify matter.
+
+#"Physical and chemical properties" "the two main types"
+Physical and chemical properties are the two main types
+FROM: ruthie-# Line 5 (id 5): Physical and chemical properties are the two main types of properties used to classify matter.
+
+#"Physical properties" "observed without changing the identity of the object"
+Physical properties are observed without changing the identity of the object
+FROM: ruthie-# Line 6 (id 6): Physical properties are observed without changing the identity of the object.
+
+#"does not change" "the substances in clay"
+the molding does not change the substances in clay
+FROM: ruthie-# Line 7 (id 7): For example, clay can be molded into different shapes and sizes but the molding does not change the substances in clay.
+
+#"does not change" "the substances"
+the molding does not change the substances
+FROM: ruthie-# Line 7 (id 7): For example, clay can be molded into different shapes and sizes but the molding does not change the substances in clay.
+
+#"Chemical properties of matter" "by their ability to change into a new substance with different properties"
+Chemical properties of matter are characterized by their ability to change into a new substance with different properties
+FROM: ruthie-# Line 8 (id 8): Chemical properties of matter are characterized by their ability to change into a new substance with different properties.
+
+#"paper" "into ash and irons ability"
+paper burning into ash and irons ability
+FROM: ruthie-# Line 9 (id 9): For example, paper burning into ash and irons ability to rust.
+
+#"a physical and chemical change" "in matter"
+a physical and chemical change exists in matter
+FROM: ruthie-# Line 10 (id 10): There is also a physical and chemical change that exists in matter.
+
+#"The difference between a physical and chemical change" "that a chemical change will create a new substance while all the chemical properties in a physical change will not change"
+The difference between a physical and chemical change is that a chemical change will create a new substance while all the chemical properties in a physical change will not change
+FROM: ruthie-# Line 11 (id 11): The difference between a physical and chemical change is that a chemical change will create a new substance while all the chemical properties in a physical change will not change.
+
+#"a chemical change" "will create" "a new substance while all the chemical properties in a physical change will not change"
+a chemical change will create a new substance while all the chemical properties in a physical change will not change
+FROM: ruthie-# Line 11 (id 11): The difference between a physical and chemical change is that a chemical change will create a new substance while all the chemical properties in a physical change will not change.
+
+#"a chemical change" "will create" "a new substance"
+a chemical change will create a new substance
+FROM: ruthie-# Line 11 (id 11): The difference between a physical and chemical change is that a chemical change will create a new substance while all the chemical properties in a physical change will not change.
+
+#"all the chemical properties in a physical change" "will not change"
+all the chemical properties in a physical change will not change
+FROM: ruthie-# Line 11 (id 11): The difference between a physical and chemical change is that a chemical change will create a new substance while all the chemical properties in a physical change will not change.
+
+#"Another property of matter" "energy"
+Another property of matter is energy
+FROM: ruthie-# Line 12 (id 12): Another property of matter is energy.
+
+#"Energy" "is related" "to matter because all matter is made up of energy"
+Energy is related to matter because all matter is made up of energy
+FROM: ruthie-# Line 13 (id 13): Energy is related to matter because all matter is made up of energy.
+
+#"all matter" "of energy"
+all matter is made up of energy
+FROM: ruthie-# Line 13 (id 13): Energy is related to matter because all matter is made up of energy.
+
+#"The rule" "energy"
+The rule governs energy
+FROM: ruthie-# Line 14 (id 14): The rule that governs energy is known as the law of conservation of energy.
+
+#"This rule" "that energy can not be destroyed when it moves from one object or system to another"
+This rule indicates that energy can not be destroyed when it moves from one object or system to another
+FROM: ruthie-# Line 15 (id 15): This rule indicates that energy cannot be destroyed when it moves from one object or system to another.
+
+#"energy" "when it moves from one object or system to another"
+energy can not be destroyed when it moves from one object or system to another
+FROM: ruthie-# Line 15 (id 15): This rule indicates that energy cannot be destroyed when it moves from one object or system to another.
+
+#"An additional form of energy" "mechanical energy"
+An additional form of energy is mechanical energy
+FROM: ruthie-# Line 16 (id 16): An additional form of energy is mechanical energy.
+
+#"Mechanical energy" "the energy of an object"
+Mechanical energy is the energy of an object
+FROM: ruthie-# Line 17 (id 17): Mechanical energy is the energy of an object that results from its motion or position.
+
+#"Mechanical energy" "the energy"
+Mechanical energy is the energy
+FROM: ruthie-# Line 17 (id 17): Mechanical energy is the energy of an object that results from its motion or position.
+
+#"an object" "from its motion or position"
+an object results from its motion or position
+FROM: ruthie-# Line 17 (id 17): Mechanical energy is the energy of an object that results from its motion or position.
+
+#"Mechanical energy" "in two forms kinetic and potential"
+Mechanical energy comes in two forms kinetic and potential
+FROM: ruthie-# Line 18 (id 18): Mechanical energy comes in two forms, kinetic and potential.
+
+#"Kinetic energy" "when an object is moving"
+Kinetic energy occurs when an object is moving
+FROM: ruthie-# Line 19 (id 19): Kinetic energy occurs when an object is moving.
+
+#"an object" "is moving"
+an object is moving when
+FROM: ruthie-# Line 19 (id 19): Kinetic energy occurs when an object is moving.
+
+#"an object" "is moving"
+an object is moving
+FROM: ruthie-# Line 19 (id 19): Kinetic energy occurs when an object is moving.
+
+#"an object" "position or shape"
+an object has position or shape
+FROM: ruthie-# Line 20 (id 20): Potential energy results from an object's position or shape.
+
+#"Matter" "what makes up all objects or substances and contains both volume and mass"
+Matter is what makes up all objects or substances and contains both volume and mass
+FROM: ann-# Line 1 (id 1): Matter is what makes up all objects or substances and contains both volume and mass.
+
+#"Some types of matter" "observable easily"
+Some types of matter are observable easily
+FROM: ann-# Line 2 (id 2): Some types of matter are easily observable with the senses but others are harder to identify without the assistance of a microscope.
+
+#"To classify matter one" "must identify" "the physical and chemical properties"
+To classify matter one must identify the physical and chemical properties
+FROM: ann-# Line 3 (id 3): To classify matter one must identify the physical and chemical properties.
+
+#"can be observed" "without changing the matter itself"
+those can be observed without changing the matter itself
+FROM: ann-# Line 4 (id 4): The physical properties are those that can be observed without changing the matter itself.
+
+#"The chemical properties" "changing the matter into a new kind of matter"
+The chemical properties involve changing the matter into a new kind of matter
+FROM: ann-# Line 6 (id 6): The chemical properties involve changing the matter into a new kind of matter with different properties.
+
+#"The chemical properties" "changing the matter with different properties"
+The chemical properties involve changing the matter with different properties
+FROM: ann-# Line 6 (id 6): The chemical properties involve changing the matter into a new kind of matter with different properties.
+
+#"The chemical properties" "changing the matter"
+The chemical properties involve changing the matter
+FROM: ann-# Line 6 (id 6): The chemical properties involve changing the matter into a new kind of matter with different properties.
+
+#"Examples of this" "rusting and flammability because it systematically changes the matter itself"
+Examples of this are rusting and flammability because it systematically changes the matter itself
+FROM: ann-# Line 7 (id 7): Examples of this are rusting and flammability, because it systematically changes the matter itself.
+
+#"Examples of this" "rusting and flammability"
+Examples of this are rusting and flammability
+FROM: ann-# Line 7 (id 7): Examples of this are rusting and flammability, because it systematically changes the matter itself.
+
+#"The primary difference between a physical and chemical change" "the changing of the substance into a new matter in a chemical change"
+The primary difference between a physical and chemical change is the changing of the substance into a new matter in a chemical change
+FROM: ann-# Line 8 (id 8): The primary difference between a physical and chemical change is the changing of the substance into a new matter in a chemical change.
+
+#"The primary difference between a physical and chemical change" "the changing"
+The primary difference between a physical and chemical change is the changing
+FROM: ann-# Line 8 (id 8): The primary difference between a physical and chemical change is the changing of the substance into a new matter in a chemical change.
+
+#"the substance" "the matter"
+the substance is the matter
+FROM: ann-# Line 9 (id 9): By changing the physical property of the substance, the matter itself does not change, but in a chemical change the substance itself becomes something new.
+
+#"does not change" "By changing the physical property of the substance"
+itself does not change By changing the physical property of the substance
+FROM: ann-# Line 9 (id 9): By changing the physical property of the substance, the matter itself does not change, but in a chemical change the substance itself becomes something new.
+
+#"All matter" "energy although it can not be seen or touched"
+All matter has energy although it can not be seen or touched
+FROM: ann-# Line 10 (id 10): All matter has energy, although it cannot be seen or touched.
+
+#"All matter" "energy"
+All matter has energy
+FROM: ann-# Line 10 (id 10): All matter has energy, although it cannot be seen or touched.
+
+#"energy" "can be transferred" "between objects"
+energy can be transferred between objects
+FROM: ann-# Line 11 (id 11): The law of conservation of energy is the notion that energy can be transferred between objects but cannot be created or destroyed.
+
+#"energy" "can not be created"
+energy can not be created
+FROM: ann-# Line 11 (id 11): The law of conservation of energy is the notion that energy can be transferred between objects but cannot be created or destroyed.
+
+#"Mechanical energy" "a cause of the object 's motion or position"
+Mechanical energy is a cause of the object 's motion or position
+FROM: ann-# Line 12 (id 12): Mechanical energy is a cause of the object's motion or position; broken down there are two different kinds of mechanical energy.
+
+#"the object" "motion or position"
+the object has motion or position
+FROM: ann-# Line 12 (id 12): Mechanical energy is a cause of the object's motion or position; broken down there are two different kinds of mechanical energy.
+
+#"broken down there" "two different kinds of mechanical energy"
+broken down there are two different kinds of mechanical energy
+FROM: ann-# Line 12 (id 12): Mechanical energy is a cause of the object's motion or position; broken down there are two different kinds of mechanical energy.
+
+#"broken down there" "two different kinds"
+broken down there are two different kinds
+FROM: ann-# Line 12 (id 12): Mechanical energy is a cause of the object's motion or position; broken down there are two different kinds of mechanical energy.
+
+#"Kinetic energy" "because of the object 's motion and potential energy"
+Kinetic energy is because of the object 's motion and potential energy
+FROM: ann-# Line 13 (id 13): Kinetic energy is because of the object's motion and potential energy is because of the object's position.
+
+#"the object" "motion and potential energy"
+the object has motion and potential energy
+FROM: ann-# Line 13 (id 13): Kinetic energy is because of the object's motion and potential energy is because of the object's position.
+
+#"the object" "position"
+the object has position
+FROM: ann-# Line 13 (id 13): Kinetic energy is because of the object's motion and potential energy is because of the object's position.
+
+#"Matter" "is identified" "as being present everywhere and in all substances"
+Matter is identified as being present everywhere and in all substances
+FROM: marion-# Line 2 (id 2): Matter is identified as being present everywhere and in all substances.
+
+#"matter" "their senses while other forms are not so easily observed"
+matter be using their senses while other forms are not so easily observed
+FROM: marion-# Line 3 (id 3): What is unique is that individuals are able to observe certain forms of matter using their senses while other forms are not so easily observed.
+
+#"other forms" "observed easily"
+other forms are not observed easily
+FROM: marion-# Line 3 (id 3): What is unique is that individuals are able to observe certain forms of matter using their senses while other forms are not so easily observed.
+
+#"matter" "can be broken down" "into physical properties and chemical properties"
+matter can be broken down into physical properties and chemical properties
+FROM: marion-# Line 5 (id 5): The passage further explained that matter can be broken down into physical properties and chemical properties.
+
+#"Physical properties" "without changing the identity or nature of the matter"
+Physical properties can occur without changing the identity or nature of the matter
+FROM: marion-# Line 6 (id 6): Physical properties can occur without changing the identity or nature of the matter.
+
+#"the chemical properties" "does not change" "if the physical properties such as the size and shape of an object changes"
+the chemical properties does not change if the physical properties such as the size and shape of an object changes
+FROM: marion-# Line 7 (id 7): It is important to know that if the physical properties such as the size and shape of an object changes, the chemical properties does not change.
+
+#"the chemical properties" "does not change"
+the chemical properties does not change
+FROM: marion-# Line 7 (id 7): It is important to know that if the physical properties such as the size and shape of an object changes, the chemical properties does not change.
+
+#"chemical properties" "the capability to change into a different matter containing different properties However"
+chemical properties have the capability to change into a different matter containing different properties However
+FROM: marion-# Line 8 (id 8): However, chemical properties have the capability to change into a different matter containing different properties.
+
+#"chemical properties" "the capability to change into a different matter containing different properties"
+chemical properties have the capability to change into a different matter containing different properties
+FROM: marion-# Line 8 (id 8): However, chemical properties have the capability to change into a different matter containing different properties.
+
+#"a different matter" "different properties"
+a different matter be containing different properties
+FROM: marion-# Line 8 (id 8): However, chemical properties have the capability to change into a different matter containing different properties.
+
+#"learn" "the definition of matter and how matter relates to energy In What is Matter"
+we learn the definition of matter and how matter relates to energy In What is Matter
+FROM: mary-# Line 1 (id 1): In 'What is Matter?', we learn the definition of matter, its properties, and how matter relates to energy.
+
+#"learn" "the definition of matter and how matter relates to energy"
+we learn the definition of matter and how matter relates to energy
+FROM: mary-# Line 1 (id 1): In 'What is Matter?', we learn the definition of matter, its properties, and how matter relates to energy.
+
+#"matter" "its properties"
+matter is its properties
+FROM: mary-# Line 1 (id 1): In 'What is Matter?', we learn the definition of matter, its properties, and how matter relates to energy.
+
+#"matter" "to energy how"
+matter relates to energy how
+FROM: mary-# Line 1 (id 1): In 'What is Matter?', we learn the definition of matter, its properties, and how matter relates to energy.
+
+#"matter" "to energy"
+matter relates to energy
+FROM: mary-# Line 1 (id 1): In 'What is Matter?', we learn the definition of matter, its properties, and how matter relates to energy.
+
+#"Matter" "anything volume"
+Matter is anything volume
+FROM: mary-# Line 2 (id 2): Matter is anything that has mass and takes up space (volume).
+
+#"anything volume" "mass"
+anything volume has mass
+FROM: mary-# Line 2 (id 2): Matter is anything that has mass and takes up space (volume).
+
+#"anything volume" "space"
+anything volume takes up space
+FROM: mary-# Line 2 (id 2): Matter is anything that has mass and takes up space (volume).
+
+#"can detect" "matter because it does have mass and take up space"
+We can detect matter because it does have mass and take up space
+FROM: mary-# Line 3 (id 3): We can detect matter because it does have mass and take up space.
+
+#"can detect" "matter"
+We can detect matter
+FROM: mary-# Line 3 (id 3): We can detect matter because it does have mass and take up space.
+
+#"Common examples" "solids liquids like water and milk and gas like air and smoke"
+Common examples are solids liquids like water and milk and gas like air and smoke
+FROM: mary-# Line 4 (id 4): Common examples are solids like a bed and a bug, liquids like water and milk, and gas like air and smoke.
+
+#"classify" "matter based on its physical and chemical properties"
+Scientists classify matter based on its physical and chemical properties
+FROM: mary-# Line 5 (id 5): Scientists classify matter based on its physical and chemical properties.
+
+#"classify" "matter"
+Scientists classify matter
+FROM: mary-# Line 5 (id 5): Scientists classify matter based on its physical and chemical properties.
+
+#"can observe" "without changing the essential atomic identity of the matter something"
+we can observe without changing the essential atomic identity of the matter something
+FROM: mary-# Line 6 (id 6): A physical property is something we can observe without changing the essential, atomic identity of the matter.
+
+#"its shape size malleability and density" "all properties For example"
+its shape size malleability and density are all properties For example
+FROM: mary-# Line 7 (id 7): For example, its shape, size, malleability, and density are all properties we can observe without fundamentally changing the matter.
+
+#"its shape size malleability and density" "all properties"
+its shape size malleability and density are all properties
+FROM: mary-# Line 7 (id 7): For example, its shape, size, malleability, and density are all properties we can observe without fundamentally changing the matter.
+
+#"can observe" "without fundamentally changing the matter For example all properties"
+we can observe without fundamentally changing the matter For example all properties
+FROM: mary-# Line 7 (id 7): For example, its shape, size, malleability, and density are all properties we can observe without fundamentally changing the matter.
+
+#"can observe" "For example all properties"
+we can observe For example all properties
+FROM: mary-# Line 7 (id 7): For example, its shape, size, malleability, and density are all properties we can observe without fundamentally changing the matter.
+
+#"a chemical property" "the observer to change the essential atomic identity of the matter However"
+a chemical property requires the observer to change the essential atomic identity of the matter However
+FROM: mary-# Line 8 (id 8): However, a chemical property requires the observer to change the essential, atomic identity of the matter.
+
+#"a chemical property" "the observer to change the essential atomic identity of the matter"
+a chemical property requires the observer to change the essential atomic identity of the matter
+FROM: mary-# Line 8 (id 8): However, a chemical property requires the observer to change the essential, atomic identity of the matter.
+
+#"a chemical property of paper" "flammability For example"
+a chemical property of paper is flammability For example
+FROM: mary-# Line 9 (id 9): For example, a chemical property of paper is flammability.
+
+#"a chemical property of paper" "flammability"
+a chemical property of paper is flammability
+FROM: mary-# Line 9 (id 9): For example, a chemical property of paper is flammability.
+
+#"paper" "burns"
+paper burns When
+FROM: mary-# Line 10 (id 10): When paper burns, the paper's atomic make-up is changed and it is no longer paper.
+
+#"paper" "burns"
+paper burns
+FROM: mary-# Line 10 (id 10): When paper burns, the paper's atomic make-up is changed and it is no longer paper.
+
+#"is changed" "When paper burns"
+the paper 's atomic make-up is changed When paper burns
+FROM: mary-# Line 10 (id 10): When paper burns, the paper's atomic make-up is changed and it is no longer paper.
+
+#"A final property of matter" "energy"
+A final property of matter is energy
+FROM: mary-# Line 11 (id 11): A final property of matter is energy.
+
+#"can not see" "energy"
+you can not see energy
+FROM: mary-# Line 12 (id 12): Although you cannot see or touch energy, all matter has it.
+
+#"can not touch" "energy"
+you can not touch energy
+FROM: mary-# Line 12 (id 12): Although you cannot see or touch energy, all matter has it.
+
+#"all matter" "it Although you can not see or touch energy"
+all matter has it Although you can not see or touch energy
+FROM: mary-# Line 12 (id 12): Although you cannot see or touch energy, all matter has it.
+
+#"Energy" "is transferred" "between matter"
+Energy is transferred between matter
+FROM: mary-# Line 13 (id 13): Energy is transferred between matter.
+
+#"All matter" "the ability to be detected and measured as it takes up space defined as volume and contains a certain amount of material defined as mass"
+All matter has the ability to be detected and measured as it takes up space defined as volume and contains a certain amount of material defined as mass
+FROM: heather-# Line 2 (id 2): All matter has the ability to be detected and measured as it takes up space defined as volume and contains a certain amount of material defined as mass.
+
+#"space" "be defined" "as volume"
+space be defined as volume
+FROM: heather-# Line 2 (id 2): All matter has the ability to be detected and measured as it takes up space defined as volume and contains a certain amount of material defined as mass.
+
+#"be defined" "as mass"
+material be defined as mass
+FROM: heather-# Line 2 (id 2): All matter has the ability to be detected and measured as it takes up space defined as volume and contains a certain amount of material defined as mass.
+
+#"Matter" "can observed"
+Matter can observed easily with an individual 's senses or in a more challenging capacity
+FROM: heather-# Line 3 (id 3): Matter can either observed easily with an individual's senses, or in a more challenging capacity.
+
+#"Matter" "can observed"
+Matter can observed easily
+FROM: heather-# Line 3 (id 3): Matter can either observed easily with an individual's senses, or in a more challenging capacity.
+
+#"Matter" "can be classified" "by two separate properties physical and chemical"
+Matter can be classified by two separate properties physical and chemical
+FROM: heather-# Line 7 (id 7): Matter can be classified by two separate properties: physical and chemical.
+
+#"Physical properties" "can be observed" "without having to change the make-up or identity of the matter"
+Physical properties can be observed without having to change the make-up or identity of the matter
+FROM: heather-# Line 8 (id 8): Physical properties can be observed without having to change the make-up, or identity of the matter.
+
+#"Matter" "several different physical properties"
+Matter has several different physical properties
+FROM: heather-# Line 9 (id 9): Matter has several different physical properties that are outlined in the article.
+
+#"The author references" "as an object"
+The author references clay as an object
+FROM: heather-# Line 11 (id 11): The author references clay as an object that is malleable as it has the ability to take different forms by pressing or pounding on it.
+
+#"an object" "malleable as it has the ability to take different forms by pressing or pounding on it"
+an object is malleable as it has the ability to take different forms by pressing or pounding on it
+FROM: heather-# Line 11 (id 11): The author references clay as an object that is malleable as it has the ability to take different forms by pressing or pounding on it.
+
+#"Chemical properties however" "describe" "matter based on its ability to change into matter with different properties"
+Chemical properties however describe matter based on its ability to change into matter with different properties
+FROM: heather-# Line 12 (id 12): Chemical properties however, describe matter based on its ability to change into matter with different properties.
+
+#"Chemical properties however" "describe" "matter"
+Chemical properties however describe matter
+FROM: heather-# Line 12 (id 12): Chemical properties however, describe matter based on its ability to change into matter with different properties.
+
+#"Examples of chemical properties" "flammability and rusting as the object is no longer made of the same matter"
+Examples of chemical properties are flammability and rusting as the object is no longer made of the same matter
+FROM: heather-# Line 13 (id 13): Examples of chemical properties are flammability and rusting, as the object is no longer made of the same matter.
+
+#"Examples of chemical properties" "flammability and rusting"
+Examples of chemical properties are flammability and rusting
+FROM: heather-# Line 13 (id 13): Examples of chemical properties are flammability and rusting, as the object is no longer made of the same matter.
+
+#"the object" "of the same matter no longer"
+the object is made of the same matter no longer
+FROM: heather-# Line 13 (id 13): Examples of chemical properties are flammability and rusting, as the object is no longer made of the same matter.
+
+#"the object" "of the same matter"
+the object is made of the same matter
+FROM: heather-# Line 13 (id 13): Examples of chemical properties are flammability and rusting, as the object is no longer made of the same matter.
+
+#"The difference between physical and chemical change" "that physical change only relates to the size and shape of the object"
+The difference between physical and chemical change is that physical change only relates to the size and shape of the object
+FROM: heather-# Line 14 (id 14): The difference between physical and chemical change is that physical change only relates to the size and shape of the object, the matter the object is made up of remains the same.
+
+#"the object" "the matter"
+the object is the matter
+FROM: heather-# Line 14 (id 14): The difference between physical and chemical change is that physical change only relates to the size and shape of the object, the matter the object is made up of remains the same.
+
+#"the object" "of remains the same the matter"
+the object is made up of remains the same the matter
+FROM: heather-# Line 14 (id 14): The difference between physical and chemical change is that physical change only relates to the size and shape of the object, the matter the object is made up of remains the same.
+
+#"the object" "the matter"
+the object is made up the matter
+FROM: heather-# Line 14 (id 14): The difference between physical and chemical change is that physical change only relates to the size and shape of the object, the matter the object is made up of remains the same.
+
+#"The author" "an example of a sheet of paper folded into thirds although the new paper size is now one third of the original"
+The author provides an example of a sheet of paper folded into thirds although the new paper size is now one third of the original
+FROM: heather-# Line 15 (id 15): The author provides an example of a sheet of paper folded into thirds, although the new paper size is now one third of the original and is shaped differently, it is still paper.
+
+#"The author" "is shaped"
+The author is shaped differently
+FROM: heather-# Line 15 (id 15): The author provides an example of a sheet of paper folded into thirds, although the new paper size is now one third of the original and is shaped differently, it is still paper.
+
+#"paper" "into thirds although the new paper size is now one third of the original"
+paper be folded into thirds although the new paper size is now one third of the original
+FROM: heather-# Line 15 (id 15): The author provides an example of a sheet of paper folded into thirds, although the new paper size is now one third of the original and is shaped differently, it is still paper.
+
+#"chemical change" "when the chemical properties of the matter have changed and a new substance is produced Unlike physical change"
+chemical change occurs when the chemical properties of the matter have changed and a new substance is produced Unlike physical change
+FROM: heather-# Line 16 (id 16): Unlike physical change, chemical change occurs when the chemical properties of the matter have changed and a new substance is produced.
+
+#"chemical change" "when the chemical properties of the matter have changed and a new substance is produced"
+chemical change occurs when the chemical properties of the matter have changed and a new substance is produced
+FROM: heather-# Line 16 (id 16): Unlike physical change, chemical change occurs when the chemical properties of the matter have changed and a new substance is produced.
+
+#"the chemical properties of the matter" "have changed"
+the chemical properties of the matter have changed when
+FROM: heather-# Line 16 (id 16): Unlike physical change, chemical change occurs when the chemical properties of the matter have changed and a new substance is produced.
+
+#"the chemical properties of the matter" "have changed"
+the chemical properties of the matter have changed
+FROM: heather-# Line 16 (id 16): Unlike physical change, chemical change occurs when the chemical properties of the matter have changed and a new substance is produced.
+
+#"a new substance" "is produced"
+a new substance is produced
+FROM: heather-# Line 16 (id 16): Unlike physical change, chemical change occurs when the chemical properties of the matter have changed and a new substance is produced.
+
+#"The author" "the original type of matter paper"
+The author keeps the original type of matter paper
+FROM: heather-# Line 17 (id 17): The author keeps the original type of matter: paper, and explains by applying fire to the paper and letting it burn, the ash, gas, and smoke you're left with is not paper any longer.
+
+#"The author" "by applying fire to the paper and letting it burn"
+The author explains by applying fire to the paper and letting it burn
+FROM: heather-# Line 17 (id 17): The author keeps the original type of matter: paper, and explains by applying fire to the paper and letting it burn, the ash, gas, and smoke you're left with is not paper any longer.
+
+#"the author" "that energy is related to matter as it is defined as a property of matter In conclusion"
+the author explains that energy is related to matter as it is defined as a property of matter In conclusion
+FROM: heather-# Line 18 (id 18): In conclusion, the author explains that energy is related to matter as it is defined as a property of matter, and all matter has it.
+
+#"the author" "that energy is related to matter as it is defined as a property of matter"
+the author explains that energy is related to matter as it is defined as a property of matter
+FROM: heather-# Line 18 (id 18): In conclusion, the author explains that energy is related to matter as it is defined as a property of matter, and all matter has it.
+
+#"energy" "is related" "to matter as it is defined as a property of matter"
+energy is related to matter as it is defined as a property of matter
+FROM: heather-# Line 18 (id 18): In conclusion, the author explains that energy is related to matter as it is defined as a property of matter, and all matter has it.
+
+#"is defined" "as a property of matter"
+it is defined as a property of matter
+FROM: heather-# Line 18 (id 18): In conclusion, the author explains that energy is related to matter as it is defined as a property of matter, and all matter has it.
+
+#"ca n't be seen" "like matter"
+it ca n't be seen like matter
+FROM: heather-# Line 19 (id 19): Although it can't be seen or touched like matter, energy is very essential.
+
+#"ca n't be touched" "like matter"
+it ca n't be touched like matter
+FROM: heather-# Line 19 (id 19): Although it can't be seen or touched like matter, energy is very essential.
+
+#"energy" "essential Although it ca n't be seen or touched like matter"
+energy is essential Although it ca n't be seen or touched like matter
+FROM: heather-# Line 19 (id 19): Although it can't be seen or touched like matter, energy is very essential.
+
+#"energy" "essential very"
+energy is essential very
+FROM: heather-# Line 19 (id 19): Although it can't be seen or touched like matter, energy is very essential.
+
+#"energy" "essential"
+energy is essential
+FROM: heather-# Line 19 (id 19): Although it can't be seen or touched like matter, energy is very essential.
+
+#"a rule" "with forms of energy"
+a rule be associated with forms of energy
+FROM: heather-# Line 20 (id 20): The law of conservation of energy is a rule associated with forms of energy.
+
+#"energy" "several forms"
+energy comes several forms
+FROM: heather-# Line 21 (id 21): This law explains that energy comes several forms and cannot be created or destroyed.
+
+#"energy" "can not be created"
+energy can not be created
+FROM: heather-# Line 21 (id 21): This law explains that energy comes several forms and cannot be created or destroyed.
+
+#"Energy" "can be transferred" "from one object or system only"
+Energy can be transferred from one object or system only
+FROM: heather-# Line 22 (id 22): Energy can only be transferred from one object or system to another.
+
+#"Energy" "can be transferred" "from one object or system to another"
+Energy can be transferred from one object or system to another
+FROM: heather-# Line 22 (id 22): Energy can only be transferred from one object or system to another.
+
+#"Energy" "can be transferred" "from one object or system"
+Energy can be transferred from one object or system
+FROM: heather-# Line 22 (id 22): Energy can only be transferred from one object or system to another.
+
+#"Mechanical energy" "the energy"
+Mechanical energy is the energy
+FROM: heather-# Line 23 (id 23): Mechanical energy is the energy an object has because of its motion or position.
+
+#"an object" "the energy because"
+an object has of the energy because
+FROM: heather-# Line 23 (id 23): Mechanical energy is the energy an object has because of its motion or position.
+
+#"an object" "its motion or position the energy"
+an object has of its motion or position the energy
+FROM: heather-# Line 23 (id 23): Mechanical energy is the energy an object has because of its motion or position.
+
+#"an object" "the energy"
+an object has of the energy
+FROM: heather-# Line 23 (id 23): Mechanical energy is the energy an object has because of its motion or position.
+
+#"Kinetic energy" "the energy"
+Kinetic energy is the energy
+FROM: heather-# Line 25 (id 25): Kinetic energy is the energy an object has because it is moving.
+
+#"an object" "because it is moving the energy"
+an object has because it is moving the energy
+FROM: heather-# Line 25 (id 25): Kinetic energy is the energy an object has because it is moving.
+
+#"an object" "the energy"
+an object has the energy
+FROM: heather-# Line 25 (id 25): Kinetic energy is the energy an object has because it is moving.
+
+#"The author" "a parallel between speed\/mass and kinetic energy the greater the speed and mass of an object"
+The author asserts a parallel between speed\/mass and kinetic energy the greater the speed and mass of an object
+FROM: heather-# Line 26 (id 26): The author asserts a parallel between speed/mass and kinetic energy, the greater the speed and mass of an object, the greater the kinetic energy.
+
+#"Potential energy" "energy"
+Potential energy is energy
+FROM: heather-# Line 27 (id 27): Potential energy is energy an object has because of its position or shape.
+
+#"an object" "energy because"
+an object has of energy because
+FROM: heather-# Line 27 (id 27): Potential energy is energy an object has because of its position or shape.
+
+#"an object" "its position or shape energy"
+an object has of its position or shape energy
+FROM: heather-# Line 27 (id 27): Potential energy is energy an object has because of its position or shape.
+
+#"an object" "energy"
+an object has of energy
+FROM: heather-# Line 27 (id 27): Potential energy is energy an object has because of its position or shape.
+

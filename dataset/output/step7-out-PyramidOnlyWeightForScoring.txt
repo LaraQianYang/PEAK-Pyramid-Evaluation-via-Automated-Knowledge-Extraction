@@ -1,0 +1,310 @@
+"4" "Matter" "is" "all the objects and substances"
+
+"1" "all the objects and substances" "take up" "space around us"
+
+"4" "Matter" "can be detected" "because it contains volume and mass"
+
+"5" "Matter" "can be measured" "because it contains volume and mass"
+
+"1" "Trees rocks animals dust mites and air" "are considered" "examples of matter all"
+
+"1" "Trees rocks animals dust mites and air" "are considered" "examples of matter"
+
+"4" "us" "identify" "matter"
+
+"4" "Physical and chemical properties" "are" "the two main types of properties used to classify matter"
+
+"1" "Physical and chemical properties" "are" "the two main types"
+
+"4" "Physical properties" "are" "observed without changing the identity of the object"
+
+"3" "the molding" "does not change" "the substances in clay"
+
+"3" "the molding" "does not change" "the substances"
+
+"5" "Chemical properties of matter" "are characterized" "by their ability to change into a new substance with different properties"
+
+"1" "paper" "burning" "into ash and irons ability"
+
+"4" "a physical and chemical change" "exists" "in matter"
+
+"3" "The difference between a physical and chemical change" "is" "that a chemical change will create a new substance while all the chemical properties in a physical change will not change"
+
+"2" "a chemical change" "will create" "a new substance while all the chemical properties in a physical change will not change"
+
+"2" "a chemical change" "will create" "a new substance"
+
+"4" "all the chemical properties in a physical change" "will not change"
+
+"4" "Another property of matter" "is" "energy"
+
+"4" "Energy" "is related" "to matter because all matter is made up of energy"
+
+"4" "all matter" "is made up" "of energy"
+
+"2" "The rule" "governs" "energy"
+
+"1" "This rule" "indicates" "that energy can not be destroyed when it moves from one object or system to another"
+
+"2" "energy" "can not be destroyed" "when it moves from one object or system to another"
+
+"3" "An additional form of energy" "is" "mechanical energy"
+
+"3" "Mechanical energy" "is" "the energy of an object"
+
+"3" "Mechanical energy" "is" "the energy"
+
+"3" "an object" "results" "from its motion or position"
+
+"2" "Mechanical energy" "comes" "in two forms kinetic and potential"
+
+"3" "Kinetic energy" "occurs" "when an object is moving"
+
+"2" "an object" "is moving" "when"
+
+"2" "an object" "is moving"
+
+"3" "an object" "has" "position or shape"
+
+"3" "Matter" "is" "what makes up all objects or substances and contains both volume and mass"
+
+"3" "Some types of matter" "are" "observable easily"
+
+"4" "To classify matter one" "must identify" "the physical and chemical properties"
+
+"4" "those" "can be observed" "without changing the matter itself"
+
+"5" "The chemical properties" "involve" "changing the matter into a new kind of matter"
+
+"5" "The chemical properties" "involve" "changing the matter with different properties"
+
+"5" "The chemical properties" "involve" "changing the matter"
+
+"3" "Examples of this" "are" "rusting and flammability because it systematically changes the matter itself"
+
+"3" "Examples of this" "are" "rusting and flammability"
+
+"3" "The primary difference between a physical and chemical change" "is" "the changing of the substance into a new matter in a chemical change"
+
+"3" "The primary difference between a physical and chemical change" "is" "the changing"
+
+"5" "the substance" "is" "the matter"
+
+"5" "itself" "does not change" "By changing the physical property of the substance"
+
+"4" "All matter" "has" "energy although it can not be seen or touched"
+
+"4" "All matter" "has" "energy"
+
+"3" "energy" "can be transferred" "between objects"
+
+"3" "energy" "can not be created"
+
+"1" "Mechanical energy" "is" "a cause of the object 's motion or position"
+
+"3" "the object" "has" "motion or position"
+
+"1" "broken down there" "are" "two different kinds of mechanical energy"
+
+"1" "broken down there" "are" "two different kinds"
+
+"3" "Kinetic energy" "is" "because of the object 's motion and potential energy"
+
+"3" "the object" "has" "motion and potential energy"
+
+"3" "the object" "has" "position"
+
+"4" "Matter" "is identified" "as being present everywhere and in all substances"
+
+"1" "matter" "be using" "their senses while other forms are not so easily observed"
+
+"1" "other forms" "are not" "observed easily"
+
+"3" "matter" "can be broken down" "into physical properties and chemical properties"
+
+"4" "Physical properties" "can occur" "without changing the identity or nature of the matter"
+
+"4" "the chemical properties" "does not change" "if the physical properties such as the size and shape of an object changes"
+
+"4" "the chemical properties" "does not change"
+
+"4" "chemical properties" "have" "the capability to change into a different matter containing different properties However"
+
+"4" "chemical properties" "have" "the capability to change into a different matter containing different properties"
+
+"5" "a different matter" "be containing" "different properties"
+
+"3" "we" "learn" "the definition of matter and how matter relates to energy In What is Matter"
+
+"3" "we" "learn" "the definition of matter and how matter relates to energy"
+
+"5" "matter" "is" "its properties"
+
+"4" "matter" "relates" "to energy how"
+
+"4" "matter" "relates" "to energy"
+
+"4" "Matter" "is" "anything volume"
+
+"4" "anything volume" "has" "mass"
+
+"2" "anything volume" "takes up" "space"
+
+"4" "We" "can detect" "matter because it does have mass and take up space"
+
+"4" "We" "can detect" "matter"
+
+"1" "Common examples" "are" "solids liquids like water and milk and gas like air and smoke"
+
+"3" "Scientists" "classify" "matter based on its physical and chemical properties"
+
+"4" "Scientists" "classify" "matter"
+
+"4" "we" "can observe" "without changing the essential atomic identity of the matter something"
+
+"1" "its shape size malleability and density" "are" "all properties For example"
+
+"1" "its shape size malleability and density" "are" "all properties"
+
+"3" "we" "can observe" "without fundamentally changing the matter For example all properties"
+
+"1" "we" "can observe" "For example all properties"
+
+"4" "a chemical property" "requires" "the observer to change the essential atomic identity of the matter However"
+
+"4" "a chemical property" "requires" "the observer to change the essential atomic identity of the matter"
+
+"2" "a chemical property of paper" "is" "flammability For example"
+
+"2" "a chemical property of paper" "is" "flammability"
+
+"3" "paper" "burns" "When"
+
+"3" "paper" "burns"
+
+"1" "the paper 's atomic make-up" "is changed" "When paper burns"
+
+"4" "A final property of matter" "is" "energy"
+
+"3" "you" "can not see" "energy"
+
+"4" "you" "can not touch" "energy"
+
+"4" "all matter" "has" "it Although you can not see or touch energy"
+
+"3" "Energy" "is transferred" "between matter"
+
+"3" "All matter" "has" "the ability to be detected and measured as it takes up space defined as volume and contains a certain amount of material defined as mass"
+
+"1" "space" "be defined" "as volume"
+
+"1" "material" "be defined" "as mass"
+
+"4" "Matter" "can observed" "easily with an individual 's senses or in a more challenging capacity"
+
+"4" "Matter" "can observed" "easily"
+
+"4" "Matter" "can be classified" "by two separate properties physical and chemical"
+
+"2" "Physical properties" "can be observed" "without having to change the make-up or identity of the matter"
+
+"4" "Matter" "has" "several different physical properties"
+
+"1" "The author references" "clay" "as an object"
+
+"1" "an object" "is" "malleable as it has the ability to take different forms by pressing or pounding on it"
+
+"2" "Chemical properties however" "describe" "matter based on its ability to change into matter with different properties"
+
+"2" "Chemical properties however" "describe" "matter"
+
+"3" "Examples of chemical properties" "are" "flammability and rusting as the object is no longer made of the same matter"
+
+"3" "Examples of chemical properties" "are" "flammability and rusting"
+
+"3" "the object" "is made" "of the same matter no longer"
+
+"3" "the object" "is made" "of the same matter"
+
+"2" "The difference between physical and chemical change" "is" "that physical change only relates to the size and shape of the object"
+
+"3" "the object" "is" "the matter"
+
+"3" "the object" "is made up" "of remains the same the matter"
+
+"3" "the object" "is made up" "the matter"
+
+"1" "The author" "provides" "an example of a sheet of paper folded into thirds although the new paper size is now one third of the original"
+
+"1" "The author" "is shaped" "differently"
+
+"3" "paper" "be folded" "into thirds although the new paper size is now one third of the original"
+
+"3" "chemical change" "occurs" "when the chemical properties of the matter have changed and a new substance is produced Unlike physical change"
+
+"3" "chemical change" "occurs" "when the chemical properties of the matter have changed and a new substance is produced"
+
+"5" "the chemical properties of the matter" "have changed" "when"
+
+"5" "the chemical properties of the matter" "have changed"
+
+"3" "a new substance" "is produced"
+
+"1" "The author" "keeps" "the original type of matter paper"
+
+"1" "The author" "explains" "by applying fire to the paper and letting it burn"
+
+"1" "the author" "explains" "that energy is related to matter as it is defined as a property of matter In conclusion"
+
+"1" "the author" "explains" "that energy is related to matter as it is defined as a property of matter"
+
+"4" "energy" "is related" "to matter as it is defined as a property of matter"
+
+"1" "it" "is defined" "as a property of matter"
+
+"4" "it" "ca n't be seen" "like matter"
+
+"4" "it" "ca n't be touched" "like matter"
+
+"4" "energy" "is" "essential Although it ca n't be seen or touched like matter"
+
+"1" "energy" "is" "essential very"
+
+"1" "energy" "is" "essential"
+
+"2" "a rule" "be associated" "with forms of energy"
+
+"3" "energy" "comes" "several forms"
+
+"3" "energy" "can not be created"
+
+"3" "Energy" "can be transferred" "from one object or system only"
+
+"3" "Energy" "can be transferred" "from one object or system to another"
+
+"3" "Energy" "can be transferred" "from one object or system"
+
+"3" "Mechanical energy" "is" "the energy"
+
+"3" "an object" "has of" "the energy because"
+
+"3" "an object" "has of" "its motion or position the energy"
+
+"3" "an object" "has of" "the energy"
+
+"3" "Kinetic energy" "is" "the energy"
+
+"3" "an object" "has" "because it is moving the energy"
+
+"3" "an object" "has" "the energy"
+
+"1" "The author" "asserts" "a parallel between speed\/mass and kinetic energy the greater the speed and mass of an object"
+
+"3" "Potential energy" "is" "energy"
+
+"3" "an object" "has of" "energy because"
+
+"3" "an object" "has of" "its position or shape energy"
+
+"3" "an object" "has of" "energy"
+

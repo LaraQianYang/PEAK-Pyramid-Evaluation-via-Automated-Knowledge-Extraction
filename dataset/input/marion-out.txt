@@ -1,0 +1,191 @@
+# CLAUSE DETECTION
+#   Dict. copular        : 25 (be, prove, sound, ...)
+#   Dict. ext-copular    : 31 (love, be, prove, ...)
+#   Dict. not ext.-cop.  : 2 (die, walk)
+#   Dict. complex trans. : 15 (set, lay, bring, ...)
+#   Dict. ignored adverb : 6 (as, thus, even, ...)
+#   Dict. included adverb: 5 (seldom, barely, scarcely, ...)
+#   Dict. conj adverbs   : 0
+#   Conservative SVA     : true
+#   Conservative SVOA    : false
+#   Process all verb CCs : true
+#   Process non-verb CCs : false
+#   Process appositions  : true
+#   Process possessives  : true
+#   Process partmods     : true
+# 
+# REPRESENTATION
+#   n-ary propositions  : false
+#   Min. opt. args      : 0
+#   Max. opt. args      : 1
+#   Lemmatize           : false
+#   Appositions verb    : "is"
+#   Possessive verb     : "has"
+# Line 1 (id 1): The passage, What is Matter, mainly focused on the topic of matter and its components.
+# Semantic graph: [focused/VBD
+#                  nsubj:[passage/NN det:The/DT rcmod:[Matter/NNP nsubj:What/WP cop:is/VBZ]]
+#                  advmod:mainly/RB
+#                  prep:[on/IN
+#                        pobj:[topic/NN
+#                              det:the/DT
+#                              prep:[of/IN
+#                                    pobj:[matter/NN
+#                                          cc:and/CC
+#                                          conj:[components/NNS poss:its/PRP$]]]]]]
+#   Detected 3 clause(s).
+#   - SVC (C: Matter@6, V: is@5, S: passage@2)
+#   - SVA (V: focused@9, S: passage@2, A?: mainly@8, A!: on@10)
+#   - SVO (S: its@16, V: "has", O: components@17)
+1	"The passage"	"is"	"Matter"
+1	"The passage"	"focused"	"on the topic of matter and its components mainly"
+1	"The passage"	"focused"	"on the topic of matter and its components"
+1	"its"	"has"	"components"
+# Line 2 (id 2): Matter is identified as being present everywhere and in all substances.
+# Semantic graph: [identified/VBN
+#                  nsubjpass:Matter/NNP
+#                  auxpass:is/VBZ
+#                  prep:[as/IN
+#                        pcomp:[substances/NNS
+#                               cop:being/VBG
+#                               amod:present/JJ
+#                               dep:[everywhere/RB cc:and/CC conj:[in/IN pobj:all/DT]]]]]
+#   Detected 1 clause(s).
+#   - SVA (V: identified@3, S: Matter@1, A!: as@4)
+2	"Matter"	"is identified"	"as being present everywhere and in all substances"
+# Line 3 (id 3): What is unique is that individuals are able to observe certain forms of matter using their senses while other forms are not so easily observed.
+# Semantic graph: [is/VBZ
+#                  csubj:[unique/JJ nsubj:What/WP cop:is/VBZ]
+#                  ccomp:[able/JJ
+#                         complm:that/IN
+#                         nsubj:individuals/NNS
+#                         cop:are/VBP
+#                         xcomp:[observe/VB
+#                                aux:to/TO
+#                                dobj:[forms/NNS
+#                                      amod:certain/JJ
+#                                      prep:[of/IN
+#                                            pobj:[matter/NN
+#                                                  partmod:[using/VBG
+#                                                           dobj:[senses/NNS poss:their/PRP$]
+#                                                           advcl:[observed/JJ
+#                                                                  mark:while/IN
+#                                                                  nsubj:[forms/NNS
+#                                                                         amod:other/JJ]
+#                                                                  cop:are/VBP
+#                                                                  neg:not/RB
+#                                                                  advmod:so/RB
+#                                                                  advmod:easily/RB]]]]]]]]
+#   Detected 6 clause(s).
+#   - SVC (C: unique@3, V: is@2, S: What@1)
+#   - SVC (V: is@4, S: unique@3, CCOMP: able@8)
+#   - SVC (C: able@8, V: are@7, S: individuals@6, XCOMP: observe@10)
+#   - SVA (V: "be using", S: matter@14, O: senses@17, A!: observed@25)
+#   - SVO (S: their@16, V: "has", O: senses@17)
+#   - SVC (C: observed@25, V: are@21, S: forms@20, A-: so@23, A?: easily@24)
+3	"What"	"is"	"unique"
+3	"What is unique"	"is"	"that individuals are able to observe certain forms of matter using their senses while other forms are not so easily observed"
+3	"individuals"	"are"	"able to observe certain forms of matter using their senses while other forms are not so easily observed"
+3	"matter"	"be using"	"their senses while other forms are not so easily observed"
+3	"their"	"has"	"senses"
+3	"other forms"	"are not"	"observed easily"
+3	"other forms"	"are not"	"observed"
+# Line 4 (id 4): The latter requires the assistance of a specific instrument such as a microscope.
+# Semantic graph: [requires/VBZ
+#                  nsubj:[latter/NN det:The/DT]
+#                  dobj:[assistance/NN
+#                        det:the/DT
+#                        prep:[of/IN
+#                              pobj:[instrument/NN
+#                                    det:a/DT
+#                                    amod:specific/JJ
+#                                    prep:[as/IN mwe:such/JJ pobj:[microscope/NN det:a/DT]]]]]]
+#   Detected 1 clause(s).
+#   - SVO (V: requires@3, S: latter@2, O: assistance@5)
+4	"The latter"	"requires"	"the assistance of a specific instrument such as a microscope"
+# Line 5 (id 5): The passage further explained that matter can be broken down into physical properties and chemical properties.
+# Semantic graph: [explained/VBD
+#                  nsubj:[passage/NN det:The/DT]
+#                  advmod:further/RB
+#                  ccomp:[broken/VBN
+#                         complm:that/IN
+#                         nsubjpass:matter/NN
+#                         aux:can/MD
+#                         auxpass:be/VB
+#                         prt:down/RP
+#                         prep:[into/IN
+#                               pobj:[properties/NNS
+#                                     amod:physical/JJ
+#                                     cc:and/CC
+#                                     conj:[properties/NNS nn:chemical/NN]]]]]
+#   Detected 2 clause(s).
+#   - SVO (V: explained@4, S: passage@2, A?: further@3, CCOMP: broken@9)
+#   - SVA (V: broken@9, S: matter@6, A!: into@11)
+5	"The passage"	"explained"	"that matter can be broken down into physical properties and chemical properties further"
+5	"The passage"	"explained"	"that matter can be broken down into physical properties and chemical properties"
+5	"matter"	"can be broken down"	"into physical properties and chemical properties"
+# Line 6 (id 6): Physical properties can occur without changing the identity or nature of the matter.
+# Semantic graph: [occur/VB
+#                  nsubj:[properties/NNS amod:Physical/JJ]
+#                  aux:can/MD
+#                  prep:[without/IN
+#                        pcomp:[changing/VBG
+#                               dobj:[identity/NN
+#                                     det:the/DT
+#                                     cc:or/CC
+#                                     conj:nature/NN
+#                                     prep:[of/IN pobj:[matter/NN det:the/DT]]]]]]
+#   Detected 1 clause(s).
+#   - SVA (V: occur@4, S: properties@2, A!: without@5)
+6	"Physical properties"	"can occur"	"without changing the identity or nature of the matter"
+# Line 7 (id 7): It is important to know that if the physical properties such as the size and shape of an object changes, the chemical properties does not change.
+# Semantic graph: [important/JJ
+#                  nsubj:It/PRP
+#                  cop:is/VBZ
+#                  xcomp:[know/VB
+#                         aux:to/TO
+#                         ccomp:[change/VB
+#                                complm:that/IN
+#                                advcl:[changes/VBZ
+#                                       mark:if/IN
+#                                       nsubj:[properties/NNS
+#                                              det:the/DT
+#                                              amod:physical/JJ
+#                                              prep:[as/IN
+#                                                    mwe:such/JJ
+#                                                    pobj:[size/NN
+#                                                          det:the/DT
+#                                                          cc:and/CC
+#                                                          conj:shape/NN
+#                                                          prep:[of/IN
+#                                                                pobj:[object/NN det:an/DT]]]]]]
+#                                nsubj:[properties/NNS det:the/DT nn:chemical/NN]
+#                                aux:does/VBZ
+#                                neg:not/RB]]]
+#   Detected 3 clause(s).
+#   - SVC (C: important@3, V: is@2, S: It@1, XCOMP: know@5)
+#   - SV (V: changes@20, S: properties@10)
+#   - SV (V: change@27, S: properties@24, A?: changes@20)
+7	"It"	"is"	"important to know that if the physical properties such as the size and shape of an object changes the chemical properties does not change"
+7	"the physical properties such as the size and shape of an object"	"changes"
+7	"the chemical properties"	"does not change"	"if the physical properties such as the size and shape of an object changes"
+7	"the chemical properties"	"does not change"
+# Line 8 (id 8): However, chemical properties have the capability to change into a different matter containing different properties.
+# Semantic graph: [have/VBP
+#                  advmod:However/RB
+#                  nsubj:[properties/NNS nn:chemical/NN]
+#                  dobj:[capability/NN
+#                        det:the/DT
+#                        infmod:[change/VB
+#                                aux:to/TO
+#                                prep:[into/IN
+#                                      pobj:[matter/NN
+#                                            det:a/DT
+#                                            amod:different/JJ
+#                                            partmod:[containing/VBG
+#                                                     dobj:[properties/NNS amod:different/JJ]]]]]]]
+#   Detected 2 clause(s).
+#   - SVO (V: have@5, S: properties@4, A?: However@1, O: capability@7)
+#   - SVA (V: "be containing", S: matter@13, O: properties@16)
+8	"chemical properties"	"have"	"the capability to change into a different matter containing different properties However"
+8	"chemical properties"	"have"	"the capability to change into a different matter containing different properties"
+8	"a different matter"	"be containing"	"different properties"
